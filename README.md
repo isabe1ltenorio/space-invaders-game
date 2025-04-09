@@ -4,7 +4,7 @@ Este repositório contém uma recriação simples do clássico jogo **Space Inva
 
 ## 🎮 Como jogar
 
-- Use as **setas do teclado** (⬅️ ➡️) para mover a nave.
+- Use as teclas **a** e **d** para mover a nave.
 - Pressione **espaço** para atirar.
 - Destrua todos os inimigos antes que eles alcancem a parte inferior da tela.
 

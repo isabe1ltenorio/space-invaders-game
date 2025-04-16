@@ -14,3 +14,5 @@ Este repositório contém uma recriação simples do clássico jogo **Space Inva
 - CSS3  
 - JavaScript 
 
+## ⌛ Status 
+Em andamento...
